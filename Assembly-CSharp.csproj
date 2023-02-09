@@ -56,10 +56,20 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Socoban\Scripts\GameManager.cs" />
     <Compile Include="Assets\Socoban\Scripts\_0207_Player.cs" />
     <Compile Include="Assets\Socoban\Scripts\_0207_Rotate.cs" />
     <Compile Include="Assets\Socoban\Scripts\_0208_Itembox.cs" />
-    <Compile Include="Assets\Socoban\Scripts\GameManager.cs" />
+    <Compile Include="Assets\_0209_0210_\_0209_Move.cs" />
+    <Compile Include="Assets\_0209_0210_\_0209_SetPosition.cs" />
+    <Compile Include="Assets\_0209_0210_\_0209_SetRotation.cs" />
+    <Compile Include="Assets\_0209_0210_\_0209_Spawner.cs" />
+    <Compile Include="Assets\_0209_0210_\_0209_Dog.cs" />
+    <Compile Include="Assets\_0209_0210_\_0209_Test.cs" />
+    <Compile Include="Assets\_0209_0210_\_0209_ScoreManager.cs" />
+    <Compile Include="Assets\_0209_0210_\_0209_Ninja.cs" />
+    <Compile Include="Assets\_0209_0210_\_0209_ScoreAdder.cs" />
+    <Compile Include="Assets\_0209_0210_\_0209_ScoreSubtrator.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -349,6 +349,16 @@
 "Assets/Socoban/Scripts/_0207_Player.cs"
 "Assets/Socoban/Scripts/_0207_Rotate.cs"
 "Assets/Socoban/Scripts/_0208_Itembox.cs"
+"Assets/_0209_0210_/_0209_Dog.cs"
+"Assets/_0209_0210_/_0209_Move.cs"
+"Assets/_0209_0210_/_0209_Ninja.cs"
+"Assets/_0209_0210_/_0209_ScoreAdder.cs"
+"Assets/_0209_0210_/_0209_ScoreManager.cs"
+"Assets/_0209_0210_/_0209_ScoreSubtrator.cs"
+"Assets/_0209_0210_/_0209_SetPosition.cs"
+"Assets/_0209_0210_/_0209_SetRotation.cs"
+"Assets/_0209_0210_/_0209_Spawner.cs"
+"Assets/_0209_0210_/_0209_Test.cs"
 -langversion:9.0
 
 /deterministic
