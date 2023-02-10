@@ -359,6 +359,8 @@
 "Assets/_0209_0210_/_0209_SetRotation.cs"
 "Assets/_0209_0210_/_0209_Spawner.cs"
 "Assets/_0209_0210_/_0209_Test.cs"
+"Assets/_0209_0210_/_0210_Fade.cs"
+"Assets/_0209_0210_/_0210_HelloCoroutine.cs"
 -langversion:9.0
 
 /deterministic

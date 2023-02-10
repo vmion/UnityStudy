@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/_0209_0210_/_0209_.unity
+- path: Assets/AmazingBalling/Amazing.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
