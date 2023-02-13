@@ -361,8 +361,11 @@
 "Assets/Downloads/Shared/Scripts/SimpleCharacterMotor.cs"
 "Assets/Downloads/TutorialInfo/Scripts/Readme.cs"
 "Assets/Scripts/Ball.cs"
+"Assets/Scripts/BallShooter.cs"
+"Assets/Scripts/CamFollow.cs"
 "Assets/Scripts/Prop.cs"
 "Assets/Scripts/ShooterRotator.cs"
+"Assets/Scripts/SpawnGenerator.cs"
 -langversion:9.0
 
 /deterministic
