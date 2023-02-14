@@ -37,6 +37,8 @@ public class Ball : MonoBehaviour
         explosionParticle.Play();
         explosionAudio.Play();
 
+        GameManager.instance.OnBallDestroy();
+
         Destroy(explosionParticle.gameObject, explosionParticle.duration);
         Destroy(gameObject);
     }

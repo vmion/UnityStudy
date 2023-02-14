@@ -363,6 +363,7 @@
 "Assets/Scripts/Ball.cs"
 "Assets/Scripts/BallShooter.cs"
 "Assets/Scripts/CamFollow.cs"
+"Assets/Scripts/GameManager.cs"
 "Assets/Scripts/Prop.cs"
 "Assets/Scripts/ShooterRotator.cs"
 "Assets/Scripts/SpawnGenerator.cs"

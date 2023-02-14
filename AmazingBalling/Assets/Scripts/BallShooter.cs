@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class BallShooter : MonoBehaviour
 {
+    public CamFollow cam;
     public Rigidbody ball;
     public Transform firePos;
     public Slider powerSlider;
@@ -59,8 +60,12 @@ public class BallShooter : MonoBehaviour
         fired = true;
         Rigidbody ballInstance = Instantiate(ball, firePos.position, firePos.rotation);
         ballInstance.velocity = currentForce * firePos.forward;
+
         shootingAudio.clip = fireClip;
         shootingAudio.Play();
+
         currentForce = minForce;
+
+        cam.SetTarget(ballInstance.transform, CamFollow.State.Tracking);
     }
 }
